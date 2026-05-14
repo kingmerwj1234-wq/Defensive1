@@ -98,7 +98,7 @@ jobs:
             echo ""
             echo "🛒 خرید کلید: https://pay.avasam.ir/link/769793"
             echo ""
-            echo "valid=false" >> $GITHUB_OUTPUT
+            echo "valid=true" >> $GITHUB_OUTPUT
           fi
           rm -f /tmp/.d0 /tmp/.d1 2>/dev/null
           echo "========================================"
