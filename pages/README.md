@@ -4,3 +4,5 @@
 
 
 ![steamdb.info](./steamdb.info/20260514_192808/media/favicon.ico) **steamdb.info** — [ [مشاهده](./steamdb.info/20260514_192808/index.md) | [📦 دانلود](./steamdb.info/20260514_192808.zip) ]
+
+![kingcomix.com](./kingcomix.com/20260516_153835/media/favicon.ico) **kingcomix.com** — [ [مشاهده](./kingcomix.com/20260516_153835/index.md) | [📦 دانلود](./kingcomix.com/20260516_153835.zip) ]
